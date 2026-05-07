@@ -8,6 +8,6 @@
     "com.unity.addressables": "1.21.20",
     "com.unity.textmeshpro": "3.0.6",
 	"com.grygtools.utils": "1.0.0",
-    "com.grygtools.pooler": "1.0.0"
+    "com.grygtools.pooler": "1.0.1"
   }
 }
